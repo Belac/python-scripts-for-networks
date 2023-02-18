@@ -1,2 +1,6 @@
 # ignore all the virtual environments created
-extracting-domain-name-information/v
+venv/
+extracting-domain-name-information/v/
+
+# ignore cache files
+*/__pycache__/

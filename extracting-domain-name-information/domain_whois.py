@@ -12,5 +12,5 @@ if is_registered(domain_name):
     print(f"Domain creation date: {whois_info.creation_date}")
     print(f"Expiration date: {whois_info.expiration_date}")
 
-    # print all others info
+    # print all other info
     print(whois_info)

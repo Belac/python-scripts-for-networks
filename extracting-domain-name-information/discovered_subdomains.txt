@@ -7,6 +7,7 @@ http://news.google.com
 http://support.google.com
 http://mobile.google.com
 http://docs.google.com
+http://shop.google.com
 http://calendar.google.com
 http://web.google.com
 http://email.google.com
